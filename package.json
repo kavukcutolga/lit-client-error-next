@@ -18,9 +18,11 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@lit-protocol/lit-node-client": "^5.0.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.365.0",
     "next": "^14.0.4",
+    "node-fetch": "^3.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
